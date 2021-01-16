@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WindEffect
-  m_Shader: {fileID: -6465566751694194690, guid: f27248e14ce818d4d94347f7803f0a6c, type: 3}
+  m_Name: RayExplosionMat
+  m_Shader: {fileID: -6465566751694194690, guid: ce1650fd4ed75c24a9ce63fe1f037bc0, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,8 +19,12 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _MainText:
-        m_Texture: {fileID: 2800000, guid: 16ea8993535b92b4b879ed813324ba9b, type: 3}
+    - _Emission:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -35,8 +39,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Floats:
-    - _WindIntensity: 0.5
-    - _WindVelocity: 0.4
-    m_Colors: []
+    m_Floats: []
+    m_Colors:
+    - Color_8007c65dc618407380b5133f03694134: {r: 1.1683803, g: 0.03862414, b: 1.0911319, a: 0}
   m_BuildTextureStacks: []

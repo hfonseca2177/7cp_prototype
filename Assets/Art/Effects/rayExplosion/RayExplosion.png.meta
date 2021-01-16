@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 23e94ebdc2914154d88cb14c79a7b6ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -885803960596447677
+    second: RayExplosion_03
+  - first:
+      213: -4185557883672103806
+    second: RayExplosion_04
+  - first:
+      213: 7792678215339846372
+    second: RayExplosion_05
+  - first:
+      213: 1193783879976014845
+    second: RayExplosion_01
+  - first:
+      213: -8265057718975755085
+    second: RayExplosion_02
+  - first:
+      213: -4077641233556680482
+    second: RayExplosion_06
+  - first:
+      213: 6312051133350545048
+    second: RayExplosion_07
+  - first:
+      213: -2002628165781919694
+    second: RayExplosion_08
+  - first:
+      213: 7214538141229423927
+    second: RayExplosion_09
+  - first:
+      213: 5048286460353883854
+    second: RayExplosion_10
+  - first:
+      213: 2402890429163615668
+    second: RayExplosion_11
+  - first:
+      213: 850348302969136679
+    second: RayExplosion_12
+  - first:
+      213: 2897929497313466198
+    second: RayExplosion_15
+  - first:
+      213: -8962533043568664846
+    second: RayExplosion_16
+  - first:
+      213: -2309613492631562911
+    second: RayExplosion_13
+  - first:
+      213: 7170479767001011065
+    second: RayExplosion_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RayExplosion_03
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 714
+        width: 233
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb304bdfdf4b3f0800000000000000
+      internalID: -885803960596447677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_04
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 714
+        width: 238
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28473e4e749e9e5c0800000000000000
+      internalID: -4185557883672103806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_05
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 718
+        width: 233
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa14aac87252c60800000000000000
+      internalID: 7792678215339846372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 716
+        width: 245
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3de882d1c219010800000000000000
+      internalID: 1193783879976014845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_02
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 708
+        width: 215
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc89547bcd9c4d80800000000000000
+      internalID: -8265057718975755085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_06
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 474
+        width: 170
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed05e5007ee4967c0800000000000000
+      internalID: -4077641233556680482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_07
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 465
+        width: 192
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89606772019e89750800000000000000
+      internalID: 6312051133350545048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_08
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 383
+        width: 201
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23860692b4c3534e0800000000000000
+      internalID: -2002628165781919694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_09
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 383
+        width: 208
+        height: 290
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d9c7617303f1460800000000000000
+      internalID: 7214538141229423927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 387
+        width: 252
+        height: 285
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceaec9e9cd1f0640800000000000000
+      internalID: 5048286460353883854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 378
+        width: 270
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5bb704d18c85120800000000000000
+      internalID: 2402890429163615668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 86
+        width: 234
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e4d5b64b0dcb00800000000000000
+      internalID: 850348302969136679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 228
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657de7f1683873820800000000000000
+      internalID: 2897929497313466198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 227
+        width: 73
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9362beafae9380800000000000000
+      internalID: -8962533043568664846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 35
+        width: 237
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651f3be3ca92ffd0800000000000000
+      internalID: -2309613492631562911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 42
+        width: 247
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97398357b59a28360800000000000000
+      internalID: 7170479767001011065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 5e46c7aae0635394fabbb12f1d989fd6, type: 3}
+      name: _Emision
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
