@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - buildings
   - Water
   - UI
-  - 
+  - scenario
   - 
   - 
   - 
@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: sky
+    uniqueID: 300970995
+    locked: 0
+  - name: background
+    uniqueID: 3541405853
+    locked: 0
+  - name: buildings
+    uniqueID: 292243555
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 1415807563
     locked: 0
